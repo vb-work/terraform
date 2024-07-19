@@ -4,3 +4,4 @@ export TF_VAR_ssh_key_path=""
 export TF_VAR_access_key=""
 export TF_VAR_secret_key=""
 export TF_VAR_project_id=""
+export KUBECONFIG=
